@@ -1,0 +1,7 @@
+# IDE / Editor
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# Python
+__pycache__/
